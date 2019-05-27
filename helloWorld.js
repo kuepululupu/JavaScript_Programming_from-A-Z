@@ -1,1 +1,1 @@
-system.out.print("HelloWorld");
+document.write('helloWorld');
